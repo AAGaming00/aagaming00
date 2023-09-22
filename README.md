@@ -1,7 +1,1 @@
-# hi
-## [The Incident](https://web.archive.org/web/20221006213050/https://github.com/aagaming00)
-<!--[![What I'm doing on Discord](https://gt.bigdumb.gq/api/badge/373833473091436546?color1=000000&textcolor=ffffff&font=Arial&gradient=false&borderradius=15&bordercolor=ffffff&borderwidth=3)](#)-->
-[all of my new repos are on gitea](https://git.catvibers.me/aa)\
-\
-[![AA's github stats](https://github-readme-stats-umber.vercel.app/api?username=aagaming00&show_icons=true&theme=dark)](#)\
-[![View Counter](https://komarev.com/ghpvc/?username=AAGaming00)](#)
+<pre><div><a href="https://aagaming.me"><img align="top" src="./page/header-start.svg" aria-label="aagaming"></a><img align="top" src="./page/header-break.svg"><img align="top" src="./page/header-break.svg"><a href="https://aagaming.me/projects"><img align="top" src="./page/header-nav-1.svg" aria-label="projects"></a><a href="https://aagaming.me/code"><img align="top" src="./page/header-nav-2.svg" aria-label="code"></a><a href="https://aagaming.me/contact"><img align="top" src="./page/header-nav-3.svg" aria-label="contact"></a><a href="https://shrimple.aagaming.me/@aa"><img align="top" src="./page/header-nav-4.svg" aria-label="fedi"></a></div><div><img width="846" align="top" src="./page/text.svg" aria-label="i'm aa, hobby developer of many projects, most of which involve reverse engineering of some sort. you probably know me from my work on decky, which can be found with my other projects below."></div></pre>
